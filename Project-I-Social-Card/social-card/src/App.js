@@ -12,12 +12,11 @@ import CardContent from './components/CardComponents/CardContent';
 const App = () => {
   return (
     <div className="container">
-    {/* <HeaderContainer /> */}
+   
     <HeaderTitle />
     <HeaderContent />
     <CardContainer />
-    {/* <CardBanner /> */}
-    {/* <CardContent /> */}
+ 
      
     </div>
   );
